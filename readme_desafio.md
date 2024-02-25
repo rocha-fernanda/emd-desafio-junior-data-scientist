@@ -38,5 +38,18 @@ Para obter mais detalhes, consulte o tutorial: [Como acessar dados no BigQuery](
 3. Execute as células para visualizar as análises em Python.
 4. Instale a biblioteca `basedosdados` utilizando o comando ``pip install basedosdados`` e configure-a com o ID do seu projeto GCP.
 5. Execute as células no notebook [analise_python.ipynb](https://github.com/rocha-fernanda/emd-desafio-junior-data-scientist/blob/main/analise_python.ipynb) para visualizar as análises em Python.
+6. 
+
+## 3- Visualização Python - Jupyter Notebook
+Claro, aqui está a inclusão referente à visualização em Python:
+
+## 3- Visualização Python - Jupyter Notebook
+
+1. Para visualizar os resultados foram usadas as bibliotecas internas do Python, como `matplotlib` e `seaborn`.
+2. Essas bibliotecas foram escolhidas devido à sua robustez e flexibilidade para criar visualizações claras e informativas a partir dos dados analisados.
+
+Lembrando que a escolha dessas bibliotecas é respaldada pela sua ampla aceitação na comunidade de ciência de dados, oferecendo recursos abrangentes para a criação de gráficos e visualizações impactantes.
+
+
 ---
 Para mais informações: [Fernanda Paula Rocha](https://www.linkedin.com/in/fernanda-paula-rocha-20687122a/) 
