@@ -329,7 +329,7 @@ LIMIT 1;
 
 -- RESPOSTA: 42408 chamados
 
--- (Questão 6.1) Quais são os 15 bairros que apresentam a maior quantidade desse tipo de chamado durante este período?
+-- (Questão 6.1) Qual os 15 bairros com a maior quantidade desse tipo de chamado nesse período?
 
 SELECT 
   b.nome, 
