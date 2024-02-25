@@ -27,7 +27,7 @@ Para acessar as consultas, siga as etapas abaixo:
 1. Acesse o [GCP Console](https://console.cloud.google.com/) e realize o login ou crie uma nova conta.
 2. Escolha um projeto existente ou crie um novo no GCP.
 3. No menu lateral, vá para o *BigQuery* e adicione o projeto **datario** à barra Explorer.
-4. Acesse o arquivo [analise_sql.sql](https://github.com/seu-usuario/seu-repositorio/blob/main/analise_sql.sql) para obter as consultas SQL e execute no *BigQuery*.
+4. Acesse o arquivo [analise_sql.sql](https://github.com/rocha-fernanda/emd-desafio-junior-data-scientist/blob/main/analise_sql.sql) para obter as consultas SQL e execute no *BigQuery*.
 
 Para obter mais detalhes, consulte o tutorial: [Como acessar dados no BigQuery](https://docs.dados.rio/tutoriais/como-acessar-dados/#como-criar-uma-conta-na-gcp)
 
@@ -37,6 +37,6 @@ Para obter mais detalhes, consulte o tutorial: [Como acessar dados no BigQuery](
 2. Faça login e importe o arquivo `analise_python.ipynb` deste repositório.
 3. Execute as células para visualizar as análises em Python.
 4. Instale a biblioteca `basedosdados` utilizando o comando ``pip install basedosdados`` e configure-a com o ID do seu projeto GCP.
-5. Execute as células no notebook `analise_python.ipynb` para visualizar as análises em Python.
+5. Execute as células no notebook [analise_python.ipynb](https://github.com/rocha-fernanda/emd-desafio-junior-data-scientist/blob/main/analise_python.ipynb) para visualizar as análises em Python.
 ---
 Contato: [Fernanda Paula Rocha](https://www.linkedin.com/in/fernanda-paula-rocha-20687122a/) 
