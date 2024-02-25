@@ -34,7 +34,7 @@ Para obter mais detalhes, consulte o tutorial: [Como acessar dados no BigQuery](
 ## 2- Análise Python - Jupyter Notebook
 
 1. Acesse o [Google Colab](https://colab.research.google.com/?hl=pt_BR).
-2. Faça login e importe o arquivo [analise_python.ipynb](https://github.com/rocha-fernanda/emd-desafio-junior-data-scientist/blob/main/analise_python.ipynb)` deste repositório.
+2. Faça login e importe o arquivo [analise_python.ipynb](https://github.com/rocha-fernanda/emd-desafio-junior-data-scientist/blob/main/analise_python.ipynb) deste repositório.
 3. Execute as células para visualizar as análises em Python.
 4. Instale a biblioteca `basedosdados` utilizando o comando ``pip install basedosdados`` e configure-a com o ID do seu projeto GCP.
 5. Execute as células no notebook [analise_python.ipynb](https://github.com/rocha-fernanda/emd-desafio-junior-data-scientist/blob/main/analise_python.ipynb) para visualizar as análises em Python.
