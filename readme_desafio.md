@@ -39,4 +39,4 @@ Para obter mais detalhes, consulte o tutorial: [Como acessar dados no BigQuery](
 4. Instale a biblioteca `basedosdados` utilizando o comando ``pip install basedosdados`` e configure-a com o ID do seu projeto GCP.
 5. Execute as células no notebook [analise_python.ipynb](https://github.com/rocha-fernanda/emd-desafio-junior-data-scientist/blob/main/analise_python.ipynb) para visualizar as análises em Python.
 ---
-Contato: [Fernanda Paula Rocha](https://www.linkedin.com/in/fernanda-paula-rocha-20687122a/) 
+Para mais informações: [Fernanda Paula Rocha](https://www.linkedin.com/in/fernanda-paula-rocha-20687122a/) 
